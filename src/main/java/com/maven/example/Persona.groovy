@@ -1,6 +1,6 @@
 package com.maven.example
 
-class Student {
+class Persona {
     String name;
     String apellido;
 

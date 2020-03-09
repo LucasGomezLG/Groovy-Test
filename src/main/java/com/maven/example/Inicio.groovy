@@ -1,13 +1,13 @@
 package com.maven.example
 
-class Example {
+class Inicio {
     static void main(String[] args) {
-        Student stu = new Student();
+        Persona stu = new Persona();
         stu.name = "Luc";
         stu.apellido = "gom";
         println stu.Display()
 
-        Employee emp = new Employee()
+        Empleado emp = new Empleado()
         emp.lucas = stu
         println emp.Display()
     }

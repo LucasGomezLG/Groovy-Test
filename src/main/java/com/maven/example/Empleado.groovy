@@ -1,7 +1,7 @@
 package com.maven.example
 
-class Employee {
-    Student lucas
+class Empleado {
+    Persona lucas
 
     String Display() {
       "$lucas.name $lucas.apellido"
