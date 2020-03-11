@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="1244" started-at="2020-03-09T19:11:55Z" finished-at="2020-03-09T19:11:56Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="1244" started-at="2020-03-09T19:11:55Z" finished-at="2020-03-09T19:11:56Z">
+      <class name="com.maven.example.EmpleadoTest">
+        <test-method status="PASS" signature="testDisplay()" name="testDisplay" duration-ms="536" started-at="2020-03-09T19:11:56Z" finished-at="2020-03-09T19:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDisplay -->
+      </class> <!-- com.maven.example.EmpleadoTest -->
+      <class name="com.maven.example.PersonaTest">
+        <test-method status="PASS" signature="testDisplay()" name="testDisplay" duration-ms="6" started-at="2020-03-09T19:11:56Z" finished-at="2020-03-09T19:11:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDisplay -->
+      </class> <!-- com.maven.example.PersonaTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

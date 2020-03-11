@@ -5,7 +5,6 @@ class Inicio {
         Persona stu = new Persona();
         stu.name = "Luc";
         stu.apellido = "gom";
-        println stu.Display()
 
         Empleado emp = new Empleado()
         emp.lucas = stu
